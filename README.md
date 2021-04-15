@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucaspalmeida
-- 👀 I’m interested in climate modeling, hydrological modeling and geoanalytics
-- 🌱 I’m currently learning machine learning tools and python
-- 💞️ I’m looking to collaborate on in any project that involves my area of ​​interest or predictions with machine learning tools
+- 👀 I’m interested in climate modeling, hydrological modeling and geoanalytics and cats
+- 🌱 I’m currently learning machine learning tools and python and how to survive this pandemic
+- 💞️ I’m looking to collaborate on any project that involves my area of interest or predictions with machine learning tools
 - 📫 How to reach me: https://www.linkedin.com/in/englucaspa/ or lp3195@gmail.com
 
 <!---
